@@ -7,7 +7,7 @@ Interview Scheduling APP
 <hr>
 <h3 align="center">App in Android Studio</h3>
 <br>
-<img src="https://github.com/akanksha-patil1404/Scaler/blob/main/WhatsApp%20Image%202023-02-23%20at%2021.32.30.jpg" width="2000"/>
+<img src="https://github.com/akanksha-patil1404/Scaler/blob/main/WhatsApp%20Image%202023-02-23%20at%2021.32.30.jpg" hright="2000"/>
 </br>
 <img src="https://github.com/akanksha-patil1404/Scaler/blob/main/WhatsApp%20Image%202023-02-23%20at%2021.32.31.jpg"/>
 <hr>

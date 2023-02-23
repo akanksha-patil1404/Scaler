@@ -17,7 +17,8 @@ Interview Scheduling APP
 
 
 
-
+<p>
 <hr>
 <h3 align="center">DataBase</h3>
 <img src="https://github.com/akanksha-patil1404/Scaler/blob/main/Screenshot%20(984).png"/>
+</p>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scaler</string>
+    <string name="Title">Title</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="Link">Meeting Link</string>
+    <string name="Date">Date</string>
+    <string name="Start_time">Start Time</string>
+    <string name="End_Time">End Time</string>
+    <string name="msg_schedule_interv">Schedule Interview</string>
+</resources>
